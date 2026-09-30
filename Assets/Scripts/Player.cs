@@ -37,11 +37,6 @@ public class Player : MonoBehaviour
         animator.SetFloat("MoveY", lastMoveY);
         animator.SetFloat("Speed", movement.magnitude);
 
- //       if (movement.x > 0)
- //           spriteRenderer.flipX = false;
-
-//        else if (movement.x > 0)
-//            spriteRenderer.flipX = true;
     }
 
     private void FixedUpdate()
