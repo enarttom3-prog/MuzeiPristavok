@@ -1609,7 +1609,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 02:00
+  m_text: 00:40
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
   m_sharedMaterial: {fileID: 2140032, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
@@ -3586,7 +3586,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8383d41d60988224d8e16b219aa5bc4a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startTime: 120
+  startTime: 40
   timerText: {fileID: 148123152}
   redColorStartTime: 6
   normalColor: {r: 1, g: 1, b: 1, a: 1}
